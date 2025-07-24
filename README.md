@@ -3,14 +3,14 @@
 The dashboard provides an overview of Amazon's YTD sales performance across categories, highlighting product ratings, discount patterns, and category-wise volumes. Top-rated items and categories like Electronics and Home&Kitchen dominate in both review count and discounted pricing.
 
 # Power BI Dashboard
-    dashboard link: https://github.com/Sangeeta2804/Amazon-Sales/blob/main/Amazon%20Sales.pbix
+dashboard link: https://github.com/Sangeeta2804/Amazon-Sales/blob/main/Amazon%20Sales.pbix
 # Kaggle Dataset 
-    https://github.com/Sangeeta2804/Amazon-Sales/blob/main/Amazon%20Kaggle%20Dataset.csv
+Dataset https://github.com/Sangeeta2804/Amazon-Sales/blob/main/Amazon%20Kaggle%20Dataset.csv
 
-# Snapshots
-    1. Snap_1 = https://github.com/Sangeeta2804/Amazon-Sales/blob/main/Amazon_Sales_Analysis_page-0001.jpg
-    2. Snap_2 = https://github.com/Sangeeta2804/Amazon-Sales/blob/main/Amazon_Sales_Analysis_page-0002.jpg
-    3. Snap_3 = https://github.com/Sangeeta2804/Amazon-Sales/blob/main/Amazon_Sales_Analysis_page-0003.jpg
+# Snapshots link
+Snap_1 = https://github.com/Sangeeta2804/Amazon-Sales/blob/main/Amazon_Sales_Analysis_page-0001.jpg
+Snap_2 = https://github.com/Sangeeta2804/Amazon-Sales/blob/main/Amazon_Sales_Analysis_page-0002.jpg
+Snap_3 = https://github.com/Sangeeta2804/Amazon-Sales/blob/main/Amazon_Sales_Analysis_page-0003.jpg
 
 # Project-Specific Insights:
 
